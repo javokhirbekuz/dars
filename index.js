@@ -8,3 +8,6 @@ const yourCar = new Car("Tesla", "Model S", "black", 2023);
 yourCar.getInfo();
 
 // console.log("time:", time);
+const person = (a, b) => {
+    console.log(a + b);
+};
